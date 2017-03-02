@@ -5,5 +5,5 @@ Laravel Quickstart!
 @stop
 
 @section('content')
-    Users!
+    Users here!
 @stop
